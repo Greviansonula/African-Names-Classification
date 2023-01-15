@@ -11,7 +11,7 @@ In Kenya, naming conventions vary greatly among the different tribes. Each tribe
 - This naming convention creates a distinct structure in Luhya names, which can be used to identify an individual's tribe with a high degree of accuracy.
 
 ### Kikuyu Tribe
-- Unique naming convention that includes a personal name, a father's name, and a mother's name.
+- Unique naming convention that includes a Christian name, personal name, and a mother's name.
 
 ## Cultural and Historical Context
 - Understanding the cultural and historical context of the naming conventions is crucial for developing a model that can accurately classify Kenyan names into their corresponding tribes and genders.
